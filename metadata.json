@@ -1,0 +1,6 @@
+{
+  "name": "Bazaario",
+  "description": "Multi-Vendor E-Commerce Marketplace with AI Shopping Concierge, Visual Image Search & Analysis, Vendor Dashboard, and Admin Governance.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

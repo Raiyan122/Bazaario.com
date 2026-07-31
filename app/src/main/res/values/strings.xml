@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bazaario</string>
+    <string name="app_subtitle">Multi-Vendor E-Commerce Marketplace</string>
+    <string name="ai_concierge">AI Concierge</string>
+    <string name="visual_search">Visual Search</string>
+    <string name="cart">Cart</string>
+    <string name="orders">Orders</string>
+    <string name="wallet">Wallet</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="seller_dashboard">Seller</string>
+    <string name="admin_console">Admin</string>
+    <string name="search_hint">Search 1000+ curated products...</string>
+    <string name="checkout">Proceed to Checkout</string>
+    <string name="empty_cart">Your cart is empty</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="buy_now">Buy Now</string>
+</resources>
